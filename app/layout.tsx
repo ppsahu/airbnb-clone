@@ -4,6 +4,7 @@ import './globals.css'
 import Navbar from './components/navbar/Navbar'
 import ClientOnly from './components/ClientOnly'
 import Modal from './components/modals/Modal'
+import React from 'react'
 
 const inter = Inter({ subsets: ['latin'] })
 
